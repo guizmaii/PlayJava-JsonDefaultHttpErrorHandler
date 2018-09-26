@@ -1,1 +1,1 @@
-# PlayJava-JsonDefaultHttpErrorHandler
+# PlayJava-JsonHttpErrorHandler
